@@ -24,3 +24,6 @@ TypeScript, Flow, Elm, and others agree that strong-typing provides safety and p
 
 ### No null or undefined
 - TypeScript 2.0 has [non-nullable types](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/#non-nullable-types)
+- Flow has [`Maybe` types](https://flowtype.org/docs/nullable-types.html#_)
+- Elm has [`Maybe` types](https://guide.elm-lang.org/error_handling/maybe.html)
+- 
