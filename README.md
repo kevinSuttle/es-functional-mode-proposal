@@ -9,6 +9,11 @@ https://github.com/bodil/eslint-config-cleanjs
 ## Major points
 
 ### Strong-typing
+TypeScript, Flow, Elm, and others agree that strong-typing provides safety and predictability.
+
+- https://github.com/flowtype/flow-typed
+- https://github.com/DefinitelyTyped/DefinitelyTyped/
+- http://elm-lang.org
 
 ### Immutable data structures
 - TypeScript 2.0 has a [readonly modifier](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/#the-readonly-modifier)
