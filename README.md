@@ -11,7 +11,7 @@ https://github.com/bodil/eslint-config-cleanjs
 ### Strong-typing
 
 ### Immutable data structures
-- TypeScript 2.0 has [readonly modifier](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/#the-readonly-modifier)
+- TypeScript 2.0 has a [readonly modifier](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/#the-readonly-modifier)
 
 ### Pure functions
 
