@@ -11,10 +11,11 @@ https://github.com/bodil/eslint-config-cleanjs
 ### Strong-typing
 
 ### Immutable data structures
+- TypeScript 2.0 has [readonly modifier](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/#the-readonly-modifier)
 
 ### Pure functions
 
 ### Expressions > statements
 
 ### No null or undefined
-
+- TypeScript 2.0 has [non-nullable types](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/#non-nullable-types)
