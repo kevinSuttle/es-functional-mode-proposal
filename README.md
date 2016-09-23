@@ -19,6 +19,7 @@ TypeScript, Flow, Elm, and others agree that strong-typing provides safety and p
 - TypeScript 2.0 has a [readonly modifier](https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/#the-readonly-modifier)
 
 ### Pure functions
+JavaScript is [context-sensitive](http://staltz.com/is-your-javascript-function-actually-pure.html) when it comes to function purity.
 
 ### Expressions > statements
 
